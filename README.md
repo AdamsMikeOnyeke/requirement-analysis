@@ -141,5 +141,5 @@ Errors must not cause the application to crash or lose user data.
 6) Responsiveness and Accessibility:
 The checkout page must be mobile-friendly and accessible (complying with WCAG 2.1 standards).
 
-7)Audit Logging
+7) Audit Logging:
 All transactions must be logged for auditing purposes, including user ID, booking details, and payment status.
