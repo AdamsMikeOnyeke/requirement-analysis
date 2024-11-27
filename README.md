@@ -112,7 +112,7 @@ Acceptance Criteria are essential in Requirement Analysis as they:
 - Prevent Scope Creep: Limit additional, unplanned functionalities by setting explicit expectations.
 - Example: Acceptance Criteria for the Checkout Feature.
   
-- The Checkout Feature in the Booking Management System must satisfy the following conditions:
+### The Checkout Feature in the Booking Management System must satisfy the following conditions:
 
 1) User Authentication:
 Only authenticated users can proceed to the checkout process.
@@ -123,7 +123,7 @@ The checkout page must display a summary of the booking, including:
  - Service name
  - Booking date and time
  - Total cost
- - 
+
 3) Payment Integration:
 Users must have the option to pay using at least two payment methods (e.g., Credit Card and PayPal).
 Payment must be processed securely, and sensitive data (e.g., card details) must not be stored on the platform.
